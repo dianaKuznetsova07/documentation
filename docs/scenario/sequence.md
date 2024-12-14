@@ -1,5 +1,3 @@
-![alt text](image.png)
-
 @startuml
 
 actor Покупатель
